@@ -1,4 +1,4 @@
-# Projeto Integrador de Extensão III – Descoberta do Conhecimento Foco Aprendizado Não Supervisionado**
+# Projeto Integrador de Extensão III – Descoberta do Conhecimento Foco Aprendizado Não Supervisionado
 
 ## 👥 Equipe
 - Mateus Silva  
