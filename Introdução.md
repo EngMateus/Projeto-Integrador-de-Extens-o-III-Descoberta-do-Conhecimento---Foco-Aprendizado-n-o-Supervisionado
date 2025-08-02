@@ -5,7 +5,7 @@
 - Kevin Pires  
 
 ## 🎓 Curso
-Ciência de Dados – 4º Período (2025) - BioPark Educação
+Ciência de Dados – 4º Período (2025) - Faculdade Donaduzzi
 
 ---
 
