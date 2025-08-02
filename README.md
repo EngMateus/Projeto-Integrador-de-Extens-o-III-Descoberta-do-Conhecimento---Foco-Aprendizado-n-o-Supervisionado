@@ -1,11 +1,11 @@
-# Projeto Integrador de Extensão III – Descoberta do Conhecimento Foco Aprendizado Não Supervisionado | Tema: RAG para Documentos Jurídicos
+# Projeto Integrador de Extensão III – Descoberta do Conhecimento Foco Aprendizado Não Supervisionado -  Tema: RAG para Documentos Jurídicos
 
 ## 👥 Equipe
 - Mateus Silva  
 - Kevin Pires  
 
 ## 🎓 Curso
-Ciência de Dados – 4º Período (2025)
+Ciência de Dados – 4º Período (2025) - Faculdade Donaduzzi
 
 ---
 
