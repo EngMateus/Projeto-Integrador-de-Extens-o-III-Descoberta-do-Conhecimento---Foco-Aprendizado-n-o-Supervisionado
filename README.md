@@ -1,4 +1,4 @@
-# Projeto Integrador de Extensão III – Descoberta do Conhecimento Foco Aprendizado Não Supervisionado -  Tema: RAG para Documentos Jurídicos
+# Projeto Integrador de Extensão III – Descoberta do Conhecimento Foco Aprendizado Não Supervisionado  Tema: RAG para Documentos Jurídicos
 
 ## 👥 Equipe
 - Mateus Silva  
@@ -24,7 +24,7 @@ Departamento Jurídico – **Biopark**
 
 Este projeto integrador visa consolidar os conhecimentos adquiridos ao longo da formação acadêmica, aplicando na prática conceitos de **aprendizado não supervisionado** em um desafio do mundo real.
 
-Além do desenvolvimento técnico, o projeto também busca fortalecer habilidades interpessoais essenciais para o mercado e a pesquisa científica.
+Além do desenvolvimento técnico, o projeto também busca fortalecer habilidades interpessoais essenciais para o mercado
 
 ### ✅ Objetivos Específicos
 
