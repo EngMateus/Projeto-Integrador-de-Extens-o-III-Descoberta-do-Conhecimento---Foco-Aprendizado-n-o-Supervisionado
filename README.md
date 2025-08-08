@@ -50,8 +50,8 @@ A solução técnica será estruturada nas seguintes etapas:
 * **Pré-processamento:** O texto dos documentos será processado para extrair o conteúdo relevante e segmentá-lo em pequenos trechos ("chunks"). Essa etapa visa otimizar a busca por informações.
 
 * **Embeddings e Armazenamento Vetorial:**
-    * Modelos de embedding (como o **Sentence-Transformers**) serão utilizados para converter cada "chunk" de texto em vetores numéricos.
-    * Esses vetores serão armazenados em um **banco de dados vetorial** (como o ChromaDB ou FAISS), que permitirá a busca eficiente e rápida por similaridade semântica.
+    * Modelos de embedding  serão utilizados para converter cada "chunk" de texto em vetores numéricos.
+    * Esses vetores serão armazenados em um **banco de dados vetorial**, que permitirá a busca eficiente e rápida por similaridade semântica.
 
 * **Fluxo de Consulta (RAG):**
     * O usuário fará uma consulta em linguagem natural.
