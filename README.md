@@ -36,3 +36,25 @@ Este projeto visa a criação de uma ferramenta de IA baseada em RAG, desenhada 
 - Preparar os alunos para o mercado de trabalho e/ou projetos de pesquisa e extensão.
 
 ---
+
+
+
+### Descrição Técnica Inicial
+
+O projeto será desenvolvido em **Python** e implementado como uma plataforma inteligente baseada na arquitetura **Geração Aumentada por Recuperação (RAG)**. O sistema terá como objetivo processar consultas em linguagem natural sobre uma base de conhecimento jurídica, recuperando informações e gerando respostas precisas e contextualizadas.
+
+A solução técnica será estruturada nas seguintes etapas:
+
+* **Fonte de Dados:** Utilizaremos documentos jurídicos diversos, como leis, contratos, sentenças e pareceres, em possíveis formatos como csv, excel, pdf e imagens, para criar a base de conhecimento do sistema. Esses documentos serão armazenados na pasta `/data`.
+
+* **Pré-processamento:** O texto dos documentos será processado para extrair o conteúdo relevante e segmentá-lo em pequenos trechos ("chunks"). Essa etapa visa otimizar a busca por informações.
+
+* **Embeddings e Armazenamento Vetorial:**
+    * Modelos de embedding (como o **Sentence-Transformers**) serão utilizados para converter cada "chunk" de texto em vetores numéricos.
+    * Esses vetores serão armazenados em um **banco de dados vetorial** (como o ChromaDB ou FAISS), que permitirá a busca eficiente e rápida por similaridade semântica.
+
+* **Fluxo de Consulta (RAG):**
+    * O usuário fará uma consulta em linguagem natural.
+    * A consulta será convertida em um vetor usando o mesmo modelo de embedding.
+    * O sistema buscará no banco de dados vetorial os trechos dos documentos jurídicos que são mais semanticamente similares à consulta.
+    * Os trechos recuperados, juntamente com a pergunta original, serão enviados a um **Large Language Model (LLM)** (como o modelo Gemini ou uma API do OpenAI) para gerar a resposta final, garantindo que ela seja precisa e contextualizada com base na fonte original.
