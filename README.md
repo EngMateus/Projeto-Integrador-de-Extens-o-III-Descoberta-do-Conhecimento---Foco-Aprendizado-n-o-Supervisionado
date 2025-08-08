@@ -22,9 +22,8 @@ Departamento Jurídico – **Biopark**
 
 ## 🎯 Objetivos do Projeto
 
-Este projeto integrador visa consolidar os conhecimentos adquiridos ao longo da formação acadêmica, aplicando na prática conceitos de **aprendizado não supervisionado** em um desafio do mundo real.
 
-Além do desenvolvimento técnico, o projeto também busca fortalecer habilidades interpessoais essenciais para o mercado
+Este projeto visa a criação de uma ferramenta de IA baseada em RAG, desenhada especificamente para facilitar a pesquisa em documentos jurídicos. A plataforma irá processar consultas em linguagem natural, identificar e extrair informações relevantes de uma base de conhecimento jurídica (composta por leis, contratos e sentenças), e gerar respostas confiáveis e bem fundamentadas, otimizando a busca por informações jurídicas.
 
 ### ✅ Objetivos Específicos
 
