@@ -1,0 +1,8 @@
+Para notebooks:
+
+* Análise exploratória
+* Testes e experimentos / Validaçães
+
+
+
+--> Arquivo final será anexado em outra pasta -> Src  <-- 
