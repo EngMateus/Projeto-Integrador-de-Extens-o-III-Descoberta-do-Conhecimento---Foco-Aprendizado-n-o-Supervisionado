@@ -1,0 +1,2 @@
+Pasta para: 
+Conjunto de dados que iremos explorar ou usar durante o projeto
