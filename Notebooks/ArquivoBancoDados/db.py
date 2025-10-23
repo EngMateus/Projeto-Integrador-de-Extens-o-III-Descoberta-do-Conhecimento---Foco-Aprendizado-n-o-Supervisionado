@@ -1,6 +1,4 @@
-"""
-Referente ao banco, n irei explicar, pq tu n vai precisar mexer aqui :)
-"""
+
 
 from flask_sqlalchemy import SQLAlchemy
 from flask import Flask
@@ -13,3 +11,4 @@ def init_db(app: Flask):
     db.init_app(app)
     with app.app_context():
         db.create_all()
+
