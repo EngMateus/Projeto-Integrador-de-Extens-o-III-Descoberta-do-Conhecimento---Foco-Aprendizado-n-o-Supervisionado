@@ -3,7 +3,7 @@
 ## 📘 Descrição Geral
 O arquivo implementa a classe **`RAGPipeline`**, que encapsula o **retriever + LLM** para fornecer respostas **precisas e contextualizadas** a perguntas sobre documentos PDF indexados.  
 Ele permite **busca por CPF ou CNPJ**, utilizando metadados dos documentos (`cpf_contratado`, `cnpj_contratado`), garantindo respostas **rigorosas e confiáveis**.
-
+Autor: Kevin
 ---
 
 ## ⚙️ Classe `RAGPipeline`
