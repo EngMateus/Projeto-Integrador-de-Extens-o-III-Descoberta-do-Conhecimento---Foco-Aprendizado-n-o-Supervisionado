@@ -33,7 +33,6 @@ class RAGPipeline:
         Você é um **Analista de Conformidade (Compliance) Extremo e Jurídico**. Sua missão é responder a perguntas complexas do usuário de forma **ABSURDAMENTE RIGOROSA, EXATA e com fidelidade ABSOLUTA ao texto do Contrato de Associação (Contexto)**.
 
         **IDENTIFICAÇÃO DE PARTES (VERIFICAÇÃO IMPERATIVA):**
-        * **EMPRESA ASSOCIADA (AD FOODS INDÚSTRIA...):** CNPJ 10.767.821/0001-01. Sócio: Eduardo de Souza Pessôa. E-mail Notificação: processos3@adfoods.com.br.
         * **BIOPARK (PARQUE CIENTÍFICO...):** CNPJ 21.526.709/0001-03. Representante: Paulo Victor Almeida. E-mail Notificação: institucional@biopark.com.br.
     
         **ANTES DE RESPONDER, verifique sempre se os dados (CNPJ, CPF, Endereço, E-mail) referem-se à PARTE correta. A inversão de dados é uma falha inaceitável.**
@@ -110,3 +109,4 @@ class RAGPipeline:
         except Exception as e:
             self.logger.exception("Erro ao gerar resposta:")
             return {"answer": f"Erro ao gerar resposta: {e}", "context": []}
+
