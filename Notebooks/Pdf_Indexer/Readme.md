@@ -9,6 +9,8 @@ Ele realiza:
 - Split de documentos em **chunks respeitando parágrafos completos**.
 - Indexação em vetor store
 
+autor: Mateus
+
 ---
 
 ## ⚙️ Classes e Funcionalidades
