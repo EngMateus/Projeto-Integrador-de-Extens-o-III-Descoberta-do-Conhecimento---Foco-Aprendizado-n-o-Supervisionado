@@ -6,6 +6,7 @@ Ele permite **busca por CPF ou CNPJ**, utilizando metadados dos documentos (`cpf
 
 
 Autor: Kevin
+
 ---
 
 ## ⚙️ Classe `RAGPipeline`
