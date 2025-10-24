@@ -6,6 +6,8 @@ O arquivo **`preprocess.py`** implementa a classe **`TextProcessor`**, responsá
 
 A classe foi construída com **métodos estáticos**, permitindo seu uso sem necessidade de instância.
 
+autor: Mateus
+
 ---
 
 ## ⚙️ Estrutura da Classe
