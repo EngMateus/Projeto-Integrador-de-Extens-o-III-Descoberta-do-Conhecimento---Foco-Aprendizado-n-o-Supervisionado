@@ -2,7 +2,7 @@
 
 ## 👥 Equipe
 - Mateus Silva  
-- Kevin Pires  
+- Kevin Vinícius  
 
 ## 🎓 Curso
 Ciência de Dados – 4º Período (2025) - Faculdade Donaduzzi
