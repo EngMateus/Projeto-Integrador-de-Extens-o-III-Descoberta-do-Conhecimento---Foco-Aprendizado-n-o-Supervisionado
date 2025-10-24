@@ -13,6 +13,8 @@ Ele carrega parâmetros essenciais, como:
 
 Uma instância global da classe `Settings` é criada para garantir acesso unificado.
 
+Autores: Kevin e Mateus
+
 ---
 
 ## ⚙️ Classe `Settings`
