@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carregando - Análise Jurídica Inteligente</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/loading.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="loading-screen">
+        <div class="loader-container">
+           <img src="{{ url_for('static', filename='images/Logo-Biopark.png') }}" alt="Logo InteliJuris" class="loading-logo">
+            
+            <h1 class="loading-title">Análise Jurídica Inteligente</h1>
+            <p></p>
+
+            <div class="loader-spinner">
+                <div class="loader"></div>
+            </div>
+            
+            <p class="loading-text">Validando credenciais e carregando o sistema...</p>
+        </div>
+    </div>
+    <script>
+        setTimeout(function() {
+            window.location.href = "{{ url_for('chatbot_page') }}";
+        }, 2900);
+    </script>
+</body>
+</html>

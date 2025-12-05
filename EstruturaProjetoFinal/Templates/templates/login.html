@@ -1,0 +1,86 @@
+<!--
+
+* Página aonde o adovgado ira logar (criado apenas para deixar um projeto mais apresentável)
+* Essa página exige que o adovgado coloque a o user e a senha pré definidas (conferir o banco para ver o user e senha) 
+* Estilização está dinamica tbm, pois, esta conectadad ao flask
+-->    
+    
+    <!DOCTYPE html>
+    <html lang="pt-BR">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Login - Sistema Jurídico Inteligente</title>
+       <link rel="shortcut icon" href="{{ url_for('static', filename='images/Cadeado.png') }}" type="image/x-icon">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/login_autenticação.css') }}">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    </head>
+
+    <body>
+        <div class="login-container">
+            <div class="login-box">
+                <img src="{{ url_for('static', filename='images/Logo-Biopark.png') }}" alt="Logo InteliJuris" class="logo">
+                <h1 class="title">Acesso ao Sistema</h1>
+
+                <form class="login-form" id="login-form">
+                    <div class="input-group">
+                        <i class="fas fa-id-card-alt"></i>
+                        <input type="text" id="oab-cpf" placeholder="Número da OAB / CPF" required>
+                    </div>
+
+                    <div class="input-group">
+                        <i class="fas fa-lock"></i>
+                        <input type="password" id="password" placeholder="Senha" required>
+                    </div>
+
+                    <div class="options-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="remember-me">
+                            Lembrar-me
+                        </label>
+                        <a href="#" class="forgot-password">Esqueceu a senha?</a>
+                    </div>
+
+                    <button type="submit" class="login-button">Entrar</button>
+
+                    <p class="signup-link">
+                        Não tem uma conta? <a href="#">Solicitar Primeiro Acesso</a>
+                    </p>
+                </form>
+            </div>
+        </div>
+        <script>
+            document.getElementById('login-form').addEventListener('submit', function (event) {
+                event.preventDefault();
+
+                const oabCpf = document.getElementById('oab-cpf').value.trim();
+                const password = document.getElementById('password').value.trim();
+
+                fetch('/auth', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ oab_cpf: oabCpf, senha: password }),
+                })
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.success) {
+                            // Se o login for bem-sucedido, redireciona para a nova URL de carregamento
+                            window.location.href = data.redirect;
+                        } else {
+                            // Se falhar, mantém a mensagem de erro
+                            alert(data.message);
+                        }
+                    })
+                    .catch((error) => {
+                        console.error('Erro:', error);
+                        alert('Erro ao tentar conectar ao servidor.');
+                    });
+            });
+        </script>
+    </body>
+
+    </html>

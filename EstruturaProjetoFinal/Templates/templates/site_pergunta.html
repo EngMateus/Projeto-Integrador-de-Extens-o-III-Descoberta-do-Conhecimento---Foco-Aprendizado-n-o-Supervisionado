@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análise Jurídica Inteligente</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style_rag.css') }}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='images/ICO_aba_bpk.png') }}" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+
+<header class="faculdade-header">
+    <div class="container header-inner">
+        <img src="{{ url_for('static', filename='images/Logo-Biopark.png') }}" alt="Logo da Faculdade" class="faculdade-logo">
+        <h1>Análise Jurídica Inteligente</h1>
+    </div>
+</header>
+
+<div class="main-content-wrapper">
+
+    <aside class="pdf-panel">
+        <h3 class="panel-title"><i class="fas fa-file-pdf"></i> Visualização do PDF</h3>
+        <div class="pdf-viewer-wrapper">
+            <iframe id="pdf-viewer" src="" frameborder="0"></iframe>
+        </div>
+    </aside>
+
+    <main class="chat-container">
+
+        <div class="pdf-search-wrapper">
+            <input type="text" id="pdf-query" placeholder="Digite CPF, CNPJ ou nome da empresa">
+            <button type="button" id="search-pdf-btn"><i class="fas fa-search"></i> Buscar PDF</button>
+            <ul id="pdf-results" class="pdf-results-list" style="display: none;"></ul>
+        </div>
+
+        <div id="chat-area" class="chat-area"></div>
+
+        <form id="question-form" class="question-form">
+            <div class="question-form-controls">
+                <input type="text" id="user-question" placeholder="Digite sua pergunta aqui..." required>
+                <button type="submit"><i class="fas fa-paper-plane"></i> Enviar</button>
+            </div>
+        </form>
+
+    </main>
+
+</div>
+
+<footer class="faculdade-footer">
+    <div class="container">
+        <p>&copy; 2025 Faculdade Donaduzzi. Todos os direitos reservados.</p>
+    </div>
+</footer>
+
+<script>
+// Variável global para armazenar o PDF selecionado
+window.selectedPdf = null;
+
+// ===============================
+// Funções auxiliares
+// ===============================
+function scrollToBottom() {
+    const chatArea = document.getElementById('chat-area');
+    chatArea.scrollTop = chatArea.scrollHeight;
+}
+
+function getSaudacao() {
+    const hora = new Date().getHours();
+    if (hora >= 5 && hora < 12) return "Bom dia!";
+    else if (hora >= 12 && hora < 18) return "Boa tarde!";
+    else return "Boa noite!";
+}
+
+// Função para adicionar mensagens simples (usada na saudação e erros)
+function addBotMessage(text) {
+    const chatArea = document.getElementById('chat-area');
+    const div = document.createElement('div');
+    div.classList.add('message', 'bot-message');
+    div.innerHTML = `<p>${text}</p>`;
+    chatArea.appendChild(div);
+    scrollToBottom();
+}
+
+// Saudação inicial ao carregar a página
+window.onload = function () {
+    addBotMessage(`${getSaudacao()} Eu sou a I.A. Jurídica. Por favor, selecione um PDF e digite sua pergunta.`);
+};
+
+// ===============================
+// BUSCA DE PDF (Com fechamento automático da lista)
+// ===============================
+document.getElementById("search-pdf-btn").addEventListener("click", async () => {
+    const query = document.getElementById("pdf-query").value.trim();
+    const ul = document.getElementById("pdf-results");
+    
+    if (!query) return;
+
+    ul.innerHTML = "<li>Buscando...</li>";
+    ul.style.display = "block"; // Garante que a lista apareça
+
+    try {
+        const res = await fetch("/search_pdf", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ query })
+        });
+
+        const data = await res.json();
+        const results = data.pdfs || [];
+        ul.innerHTML = "";
+
+        if (results.length === 0) {
+            ul.innerHTML = "<li>Nenhum PDF encontrado.</li>";
+            return;
+        }
+
+        results.forEach(pdf => {
+            const li = document.createElement("li");
+            li.textContent = pdf;
+            li.style.cursor = "pointer"; // Melhora visual
+            
+            li.addEventListener("click", () => {
+                // Remove destaque dos outros itens
+                document.querySelectorAll("#pdf-results li").forEach(i => i.style.background = "");
+                
+                // Destaca o atual
+                li.style.background = "#103fc0";
+                li.style.color = "#fff";
+                
+                window.selectedPdf = pdf;
+
+                // Carrega PDF no iframe lateral
+                const pdfViewer = document.getElementById("pdf-viewer");
+                pdfViewer.src = `/view_pdf?pdf_file=${encodeURIComponent(pdf)}`;
+                
+                // NOVO: Esconde a lista após selecionar (Melhoria de UX)
+                ul.style.display = "none";
+            });
+            ul.appendChild(li);
+        });
+    } catch (e) {
+        console.error(e);
+        ul.innerHTML = "<li>Erro na busca.</li>";
+    }
+});
+
+// NOVO: Reabre a lista se o usuário clicar no campo de busca de novo
+document.getElementById("pdf-query").addEventListener("focus", () => {
+    const ul = document.getElementById("pdf-results");
+    if (ul.children.length > 0) {
+        ul.style.display = "block";
+    }
+});
+
+// ===============================
+// ENVIO DE PERGUNTA (COM STREAMING / DIGITAÇÃO)
+// ===============================
+document.getElementById('question-form').addEventListener('submit', async function (e) {
+    e.preventDefault();
+
+    const questionInput = document.getElementById('user-question');
+    const question = questionInput.value.trim();
+    
+    if (!question) return alert("Digite uma pergunta.");
+    if (!window.selectedPdf) return alert("Selecione um PDF primeiro.");
+
+    const userInput = document.getElementById("pdf-query").value.trim(); // CPF, CNPJ ou nome
+
+    const chatArea = document.getElementById('chat-area');
+
+    // 1. Adiciona a pergunta do usuário na tela
+    const userDiv = document.createElement('div');
+    userDiv.classList.add('message', 'user-message');
+    userDiv.innerHTML = `<p>${question}</p>`;
+    chatArea.appendChild(userDiv);
+    
+    // Limpa o campo de pergunta
+    questionInput.value = '';
+
+    // 2. Adiciona balão de "Pensando..."
+    const botThinking = document.createElement('div');
+    botThinking.classList.add('message', 'bot-message', 'thinking-message');
+    botThinking.innerHTML = `<p><i class="fas fa-spinner fa-spin"></i> Analisando o documento...</p>`;
+    chatArea.appendChild(botThinking);
+    scrollToBottom();
+
+    try {
+        // 3. Faz a requisição ao Flask
+        const res = await fetch('/ask', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ 
+                question, 
+                pdf_selected: window.selectedPdf, 
+                user_input: userInput 
+            })
+        });
+
+        // 4. Prepara para receber o streaming
+        // Remove o balão de "pensando"
+        chatArea.removeChild(botThinking);
+
+        // Cria o balão final onde a resposta vai aparecer
+        const botDiv = document.createElement('div');
+        botDiv.classList.add('message', 'bot-message');
+        
+        // Cria um elemento <p> para o texto
+        const pResponse = document.createElement('p');
+        botDiv.appendChild(pResponse);
+        chatArea.appendChild(botDiv);
+
+        // 5. Leitura do Stream (Efeito Digitação)
+        const reader = res.body.getReader();
+        const decoder = new TextDecoder();
+
+        while (true) {
+            const { done, value } = await reader.read();
+            if (done) break;
+
+            // Decodifica os bytes recebidos para texto
+            const chunk = decoder.decode(value, { stream: true });
+            
+            // Adiciona o texto ao balão existente
+            pResponse.innerHTML += chunk; 
+            
+            // Rola a tela para baixo a cada nova palavra
+            chatArea.scrollTop = chatArea.scrollHeight;
+        }
+
+    } catch (err) {
+        console.error(err);
+        if(chatArea.contains(botThinking)) chatArea.removeChild(botThinking);
+        addBotMessage("Erro ao buscar resposta. Verifique o servidor.");
+    } finally {
+        scrollToBottom();
+    }
+});
+</script>
+
+</body>
+</html>
