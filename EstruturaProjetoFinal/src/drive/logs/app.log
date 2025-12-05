@@ -1,0 +1,515 @@
+2025-11-07 18:36:10,822 - INFO - 🔑 Autenticação no Google Drive realizada com sucesso.
+2025-11-07 18:36:10,833 - INFO - 📁 Buscando arquivos PDF na pasta (ID): 1eV3aeMYYchVG2DBrVaKYHc0jwx1Q_a21
+2025-11-07 18:36:11,601 - INFO - 📊 27 arquivo(s) PDF encontrado(s) na pasta do Drive.
+2025-11-07 18:36:11,602 - INFO - [1/27] 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf (ID: 1W45WRFHaZLwVc0ANdEaeZ_SiLaQF8bi3)
+2025-11-07 18:36:11,602 - INFO - [2/27] 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf (ID: 1nEwONl4-y70-FlLqf0Y40WT3c-iB-AQS)
+2025-11-07 18:36:11,603 - INFO - [3/27] 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1h6vR321ROyiydWAyiH3--qzM7wKhPIIB)
+2025-11-07 18:36:11,603 - INFO - [4/27] 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (ID: 1ZH1J-ID8TltguAPLfTQCcmsvF8nu7d8u)
+2025-11-07 18:36:11,604 - INFO - [5/27] 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 18OhgfGA1qH7wY0_-0Qlok8hENGZuq7AH)
+2025-11-07 18:36:11,604 - INFO - [6/27] 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf (ID: 168KnVVr2vrT__nyy90VTPBrhZbgrZDuM)
+2025-11-07 18:36:11,605 - INFO - [7/27] 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 1ziGjP2v-JNctj7qtdT7uGs-olq4QXjpt)
+2025-11-07 18:36:11,605 - INFO - [8/27] ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1izmH7Ryiu4YLge-Ua7J56k8_xaXaaTti)
+2025-11-07 18:36:11,606 - INFO - [9/27] AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1XPeIdamRbJIfGsPTZuboNctAY9Qdy3aR)
+2025-11-07 18:36:11,606 - INFO - [10/27] AGENDAOS.-.Contrato.de.Empresa.Associada.pdf (ID: 1iCAS8a61o_guj6bDkgUq_rBqU9tgosQ4)
+2025-11-07 18:36:11,606 - INFO - [11/27] AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf (ID: 1xxQ3UPV7LSxpq3jJVN8bqm_CMS-QKPgV)
+2025-11-07 18:36:11,607 - INFO - [12/27] AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf (ID: 1dsjNf9OGUdeksdIYMGbrDiENIQMLDUD6)
+2025-11-07 18:36:11,608 - INFO - [13/27] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Z0Lk6J8FAWuCmJnlE1fij8ZERh56EBKz)
+2025-11-07 18:36:11,608 - INFO - [14/27] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf (ID: 1m6h5DQtjf5sgHj4-qJ0yzUmdL4STOPIp)
+2025-11-07 18:36:11,608 - INFO - [15/27] ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf (ID: 18YrSWkUHPFlg2sR8wVkjCWWGeE3Ys4Nl)
+2025-11-07 18:36:11,609 - INFO - [16/27] ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf (ID: 17wTMtC03Pb8ICq4-MQ8tCiNKoo1crT_4)
+2025-11-07 18:36:11,609 - INFO - [17/27] ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf (ID: 12wFfGGAx9ZM6zEmA7Ey1-EyiMuT_P6GW)
+2025-11-07 18:36:11,609 - INFO - [18/27] ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf (ID: 1w4KH-kyeATo7nLdvwUERr_mRfVU7Xkzl)
+2025-11-07 18:36:11,610 - INFO - [19/27] AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf (ID: 1menZ3cBSJvYQQmzGC0vtRHFDM4yDabsD)
+2025-11-07 18:36:11,610 - INFO - [20/27] AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 157Tg66N-7uXLuU-h3X24Dcg5dJ0_fLEc)
+2025-11-07 18:36:11,611 - INFO - [21/27] ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1fQWQJZfGEASo83nzcs8VY-Tgx4fP8rJj)
+2025-11-07 18:36:11,611 - INFO - [22/27] ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1HJ2kESx0aKxYDz75JSRq95Z277jaeMoA)
+2025-11-07 18:36:11,612 - INFO - [23/27] ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Igy8QFH91lkz6LHuxSNOo_ZIhdV_K-F9)
+2025-11-07 18:36:11,612 - INFO - [24/27] ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1F2OKtvkETGFJq7iAej0ewAh6B_VDl4Gn)
+2025-11-07 18:36:11,613 - INFO - [25/27] ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf (ID: 1LqN8k6vwrEdYJQ5jwVIwXVzxJfA8ULmV)
+2025-11-07 18:36:11,613 - INFO - [26/27] ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 156U7oPTOJt9rlFLTcVAxHUrzaima9Wjm)
+2025-11-07 18:36:11,614 - INFO - [27/27] ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1SiYJMJfRb7eqG3EEj-Z3v2rmSC7PRg-y)
+2025-11-07 18:36:11,615 - INFO - Iniciando processamento de 27 PDFs...
+2025-11-07 18:53:25,482 - INFO - 🔑 Autenticação no Google Drive realizada com sucesso.
+2025-11-07 18:53:25,488 - INFO - 📁 Buscando arquivos PDF na pasta (ID): 1eV3aeMYYchVG2DBrVaKYHc0jwx1Q_a21
+2025-11-07 18:53:26,597 - INFO - 📊 27 arquivo(s) PDF encontrado(s) na pasta do Drive.
+2025-11-07 18:53:26,598 - INFO - [1/27] 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf (ID: 1W45WRFHaZLwVc0ANdEaeZ_SiLaQF8bi3)
+2025-11-07 18:53:26,598 - INFO - [2/27] 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf (ID: 1nEwONl4-y70-FlLqf0Y40WT3c-iB-AQS)
+2025-11-07 18:53:26,599 - INFO - [3/27] 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1h6vR321ROyiydWAyiH3--qzM7wKhPIIB)
+2025-11-07 18:53:26,599 - INFO - [4/27] 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (ID: 1ZH1J-ID8TltguAPLfTQCcmsvF8nu7d8u)
+2025-11-07 18:53:26,599 - INFO - [5/27] 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 18OhgfGA1qH7wY0_-0Qlok8hENGZuq7AH)
+2025-11-07 18:53:26,601 - INFO - [6/27] 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf (ID: 168KnVVr2vrT__nyy90VTPBrhZbgrZDuM)
+2025-11-07 18:53:26,601 - INFO - [7/27] 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 1ziGjP2v-JNctj7qtdT7uGs-olq4QXjpt)
+2025-11-07 18:53:26,601 - INFO - [8/27] ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1izmH7Ryiu4YLge-Ua7J56k8_xaXaaTti)
+2025-11-07 18:53:26,602 - INFO - [9/27] AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1XPeIdamRbJIfGsPTZuboNctAY9Qdy3aR)
+2025-11-07 18:53:26,602 - INFO - [10/27] AGENDAOS.-.Contrato.de.Empresa.Associada.pdf (ID: 1iCAS8a61o_guj6bDkgUq_rBqU9tgosQ4)
+2025-11-07 18:53:26,602 - INFO - [11/27] AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf (ID: 1xxQ3UPV7LSxpq3jJVN8bqm_CMS-QKPgV)
+2025-11-07 18:53:26,603 - INFO - [12/27] AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf (ID: 1dsjNf9OGUdeksdIYMGbrDiENIQMLDUD6)
+2025-11-07 18:53:26,603 - INFO - [13/27] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Z0Lk6J8FAWuCmJnlE1fij8ZERh56EBKz)
+2025-11-07 18:53:26,604 - INFO - [14/27] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf (ID: 1m6h5DQtjf5sgHj4-qJ0yzUmdL4STOPIp)
+2025-11-07 18:53:26,604 - INFO - [15/27] ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf (ID: 18YrSWkUHPFlg2sR8wVkjCWWGeE3Ys4Nl)
+2025-11-07 18:53:26,605 - INFO - [16/27] ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf (ID: 17wTMtC03Pb8ICq4-MQ8tCiNKoo1crT_4)
+2025-11-07 18:53:26,605 - INFO - [17/27] ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf (ID: 12wFfGGAx9ZM6zEmA7Ey1-EyiMuT_P6GW)
+2025-11-07 18:53:26,606 - INFO - [18/27] ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf (ID: 1w4KH-kyeATo7nLdvwUERr_mRfVU7Xkzl)
+2025-11-07 18:53:26,606 - INFO - [19/27] AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf (ID: 1menZ3cBSJvYQQmzGC0vtRHFDM4yDabsD)
+2025-11-07 18:53:26,606 - INFO - [20/27] AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 157Tg66N-7uXLuU-h3X24Dcg5dJ0_fLEc)
+2025-11-07 18:53:26,606 - INFO - [21/27] ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1fQWQJZfGEASo83nzcs8VY-Tgx4fP8rJj)
+2025-11-07 18:53:26,606 - INFO - [22/27] ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1HJ2kESx0aKxYDz75JSRq95Z277jaeMoA)
+2025-11-07 18:53:26,607 - INFO - [23/27] ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Igy8QFH91lkz6LHuxSNOo_ZIhdV_K-F9)
+2025-11-07 18:53:26,607 - INFO - [24/27] ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1F2OKtvkETGFJq7iAej0ewAh6B_VDl4Gn)
+2025-11-07 18:53:26,607 - INFO - [25/27] ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf (ID: 1LqN8k6vwrEdYJQ5jwVIwXVzxJfA8ULmV)
+2025-11-07 18:53:26,608 - INFO - [26/27] ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 156U7oPTOJt9rlFLTcVAxHUrzaima9Wjm)
+2025-11-07 18:53:26,608 - INFO - [27/27] ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1SiYJMJfRb7eqG3EEj-Z3v2rmSC7PRg-y)
+2025-11-07 18:53:26,610 - INFO - Iniciando processamento de 27 PDFs...
+2025-11-07 18:53:26,613 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf
+2025-11-07 18:53:26,614 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf
+2025-11-07 18:53:26,624 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-07 18:53:26,633 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf
+2025-11-07 18:53:26,640 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-07 18:53:28,316 - ERROR - ❌ Erro durante o chunk do download 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (tentativa 1): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:2546)
+2025-11-07 18:53:28,317 - ERROR - ❌ Erro durante o chunk do download 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf (tentativa 1): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:2546)
+2025-11-07 18:53:28,318 - ERROR - ❌ Erro ao baixar 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (tentativa 1/3): Falha no download (erro no chunk)
+2025-11-07 18:53:28,319 - ERROR - ❌ Erro ao baixar 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf (tentativa 1/3): Falha no download (erro no chunk)
+2025-11-07 18:53:28,319 - WARNING - 🔁 Re-tentando em 2.4s...
+2025-11-07 18:53:28,320 - WARNING - 🔁 Re-tentando em 2.8s...
+2025-11-07 18:53:31,193 - ERROR - ❌ Erro durante o chunk do download 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (tentativa 1): 'NoneType' object has no attribute 'close'
+2025-11-07 18:53:31,194 - ERROR - ❌ Erro ao baixar 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (tentativa 1/3): Falha no download (erro no chunk)
+2025-11-07 18:53:31,195 - WARNING - 🔁 Re-tentando em 2.6s...
+2025-11-07 18:53:33,329 - INFO - ✅ Download concluído: 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf (2.18s)
+2025-11-07 18:53:33,329 - INFO - ✅ Download concluído: 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf (6.71s)
+2025-11-07 18:53:33,333 - INFO - ✅ Processado: extraidos\3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf
+2025-11-07 18:53:33,338 - INFO - ✅ Processado: extraidos\35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf
+2025-11-07 18:53:34,364 - ERROR - ❌ Erro durante o chunk do download 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (tentativa 2): 'NoneType' object has no attribute 'close'
+2025-11-07 18:53:34,364 - ERROR - ❌ Erro durante o chunk do download 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf (tentativa 1): [SSL: BLOCK_CIPHER_PAD_IS_WRONG] block cipher pad is wrong (_ssl.c:2546)
+2025-11-07 18:53:34,367 - ERROR - ❌ Erro ao baixar 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (tentativa 2/3): Falha no download (erro no chunk)
+2025-11-07 18:53:34,367 - ERROR - ❌ Erro ao baixar 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf (tentativa 1/3): Falha no download (erro no chunk)
+2025-11-07 18:53:34,367 - WARNING - 🔁 Re-tentando em 4.6s...
+2025-11-07 18:53:34,369 - WARNING - 🔁 Re-tentando em 3.0s...
+2025-11-07 18:59:54,179 - INFO - 🔑 Autenticação no Google Drive realizada com sucesso.
+2025-11-07 18:59:54,217 - INFO - 📁 Buscando arquivos PDF na pasta (ID): 1eV3aeMYYchVG2DBrVaKYHc0jwx1Q_a21
+2025-11-07 18:59:54,942 - INFO - 📊 27 arquivo(s) PDF encontrado(s) na pasta do Drive.
+2025-11-07 18:59:54,943 - INFO - [1/27] 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf (ID: 1W45WRFHaZLwVc0ANdEaeZ_SiLaQF8bi3)
+2025-11-07 18:59:54,943 - INFO - [2/27] 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf (ID: 1nEwONl4-y70-FlLqf0Y40WT3c-iB-AQS)
+2025-11-07 18:59:54,943 - INFO - [3/27] 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1h6vR321ROyiydWAyiH3--qzM7wKhPIIB)
+2025-11-07 18:59:54,944 - INFO - [4/27] 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (ID: 1ZH1J-ID8TltguAPLfTQCcmsvF8nu7d8u)
+2025-11-07 18:59:54,944 - INFO - [5/27] 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 18OhgfGA1qH7wY0_-0Qlok8hENGZuq7AH)
+2025-11-07 18:59:54,944 - INFO - [6/27] 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf (ID: 168KnVVr2vrT__nyy90VTPBrhZbgrZDuM)
+2025-11-07 18:59:54,944 - INFO - [7/27] 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 1ziGjP2v-JNctj7qtdT7uGs-olq4QXjpt)
+2025-11-07 18:59:54,945 - INFO - [8/27] ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1izmH7Ryiu4YLge-Ua7J56k8_xaXaaTti)
+2025-11-07 18:59:54,945 - INFO - [9/27] AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1XPeIdamRbJIfGsPTZuboNctAY9Qdy3aR)
+2025-11-07 18:59:54,945 - INFO - [10/27] AGENDAOS.-.Contrato.de.Empresa.Associada.pdf (ID: 1iCAS8a61o_guj6bDkgUq_rBqU9tgosQ4)
+2025-11-07 18:59:54,946 - INFO - [11/27] AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf (ID: 1xxQ3UPV7LSxpq3jJVN8bqm_CMS-QKPgV)
+2025-11-07 18:59:54,946 - INFO - [12/27] AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf (ID: 1dsjNf9OGUdeksdIYMGbrDiENIQMLDUD6)
+2025-11-07 18:59:54,946 - INFO - [13/27] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Z0Lk6J8FAWuCmJnlE1fij8ZERh56EBKz)
+2025-11-07 18:59:54,947 - INFO - [14/27] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf (ID: 1m6h5DQtjf5sgHj4-qJ0yzUmdL4STOPIp)
+2025-11-07 18:59:54,947 - INFO - [15/27] ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf (ID: 18YrSWkUHPFlg2sR8wVkjCWWGeE3Ys4Nl)
+2025-11-07 18:59:54,947 - INFO - [16/27] ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf (ID: 17wTMtC03Pb8ICq4-MQ8tCiNKoo1crT_4)
+2025-11-07 18:59:54,948 - INFO - [17/27] ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf (ID: 12wFfGGAx9ZM6zEmA7Ey1-EyiMuT_P6GW)
+2025-11-07 18:59:54,949 - INFO - [18/27] ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf (ID: 1w4KH-kyeATo7nLdvwUERr_mRfVU7Xkzl)
+2025-11-07 18:59:54,950 - INFO - [19/27] AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf (ID: 1menZ3cBSJvYQQmzGC0vtRHFDM4yDabsD)
+2025-11-07 18:59:54,950 - INFO - [20/27] AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 157Tg66N-7uXLuU-h3X24Dcg5dJ0_fLEc)
+2025-11-07 18:59:54,951 - INFO - [21/27] ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1fQWQJZfGEASo83nzcs8VY-Tgx4fP8rJj)
+2025-11-07 18:59:54,951 - INFO - [22/27] ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1HJ2kESx0aKxYDz75JSRq95Z277jaeMoA)
+2025-11-07 18:59:54,952 - INFO - [23/27] ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Igy8QFH91lkz6LHuxSNOo_ZIhdV_K-F9)
+2025-11-07 18:59:54,953 - INFO - [24/27] ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1F2OKtvkETGFJq7iAej0ewAh6B_VDl4Gn)
+2025-11-07 18:59:54,953 - INFO - [25/27] ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf (ID: 1LqN8k6vwrEdYJQ5jwVIwXVzxJfA8ULmV)
+2025-11-07 18:59:54,954 - INFO - [26/27] ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 156U7oPTOJt9rlFLTcVAxHUrzaima9Wjm)
+2025-11-07 18:59:54,956 - INFO - [27/27] ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1SiYJMJfRb7eqG3EEj-Z3v2rmSC7PRg-y)
+2025-11-07 18:59:54,956 - INFO - Iniciando processamento de 27 PDFs...
+2025-11-07 18:59:54,960 - INFO - ⏩ Pulando download (já existe e não está vazio): 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf
+2025-11-07 18:59:54,962 - INFO - ⏩ Pulando download (já existe e não está vazio): 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf
+2025-11-07 18:59:54,963 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-07 18:59:54,964 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf
+2025-11-07 18:59:54,975 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-07 18:59:54,976 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf
+2025-11-07 18:59:54,977 - INFO - ✅ Processado: extraidos\3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf
+2025-11-07 18:59:54,985 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-07 18:59:54,990 - INFO - ✅ Processado: extraidos\35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf
+2025-11-07 18:59:56,166 - ERROR - ❌ Erro durante o chunk do download 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (tentativa 1): [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2546)
+2025-11-07 18:59:56,167 - ERROR - ❌ Erro ao baixar 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (tentativa 1/3): Falha no download (erro no chunk)
+2025-11-07 18:59:56,168 - WARNING - 🔁 Re-tentando em 2.6s...
+2025-11-07 19:00:56,385 - ERROR - ❌ Erro durante o chunk do download 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (tentativa 1): The read operation timed out
+2025-11-07 19:00:56,386 - ERROR - ❌ Erro durante o chunk do download 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf (tentativa 1): The read operation timed out
+2025-11-07 19:00:56,386 - ERROR - ❌ Erro durante o chunk do download 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (tentativa 1): The read operation timed out
+2025-11-07 19:00:56,388 - ERROR - ❌ Erro ao baixar 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (tentativa 1/3): Falha no download (erro no chunk)
+2025-11-07 19:00:56,389 - ERROR - ❌ Erro ao baixar 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf (tentativa 1/3): Falha no download (erro no chunk)
+2025-11-07 19:00:56,389 - ERROR - ❌ Erro ao baixar 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (tentativa 1/3): Falha no download (erro no chunk)
+2025-11-07 19:00:56,389 - WARNING - 🔁 Re-tentando em 2.7s...
+2025-11-07 19:00:56,390 - WARNING - 🔁 Re-tentando em 2.7s...
+2025-11-07 19:00:56,390 - WARNING - 🔁 Re-tentando em 2.1s...
+2025-11-07 19:00:56,417 - ERROR - ❌ Erro durante o chunk do download 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (tentativa 1): The read operation timed out
+2025-11-07 19:00:56,418 - ERROR - ❌ Erro ao baixar 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (tentativa 1/3): Falha no download (erro no chunk)
+2025-11-07 19:00:56,418 - WARNING - 🔁 Re-tentando em 2.1s...
+2025-11-07 19:00:58,821 - ERROR - ❌ Erro durante o chunk do download 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (tentativa 2): The read operation timed out
+2025-11-07 19:00:58,823 - ERROR - ❌ Erro ao baixar 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (tentativa 2/3): Falha no download (erro no chunk)
+2025-11-07 19:00:58,823 - WARNING - 🔁 Re-tentando em 4.2s...
+2025-11-07 19:01:01,340 - INFO - ✅ Download concluído: 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf (2.28s)
+2025-11-07 19:01:01,341 - INFO - ✅ Processado: extraidos\53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf
+2025-11-07 19:01:01,697 - ERROR - ❌ Erro durante o chunk do download 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (tentativa 2): 'NoneType' object has no attribute 'close'
+2025-11-07 19:01:01,699 - ERROR - ❌ Erro ao baixar 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (tentativa 2/3): Falha no download (erro no chunk)
+2025-11-07 19:01:01,700 - WARNING - 🔁 Re-tentando em 4.5s...
+2025-11-07 19:01:01,717 - INFO - ✅ Download concluído: 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (3.22s)
+2025-11-07 19:01:01,724 - INFO - ✅ Processado: extraidos\50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf
+2025-11-07 19:01:04,895 - INFO - ✅ Download concluído: ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (3.55s)
+2025-11-07 19:01:04,900 - INFO - ✅ Processado: extraidos\ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-07 19:01:06,460 - ERROR - ❌ Erro durante o chunk do download AGENDAOS.-.Contrato.de.Empresa.Associada.pdf (tentativa 1): [SSL] internal error (_ssl.c:2546)
+2025-11-07 19:01:06,461 - ERROR - ❌ Erro durante o chunk do download 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (tentativa 3): [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2546)
+2025-11-07 19:01:06,462 - ERROR - ❌ Erro ao baixar AGENDAOS.-.Contrato.de.Empresa.Associada.pdf (tentativa 1/3): Falha no download (erro no chunk)
+2025-11-07 19:01:06,463 - ERROR - ❌ Erro ao baixar 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (tentativa 3/3): Falha no download (erro no chunk)
+2025-11-07 19:01:06,463 - WARNING - 🔁 Re-tentando em 2.5s...
+2025-11-07 19:01:06,464 - ERROR - 🚫 Falha definitiva ao baixar 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-07 19:01:06,469 - INFO - ✅ Processado: None
+2025-11-07 19:01:08,787 - INFO - ✅ Download concluído: AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf (7.07s)
+2025-11-07 19:01:08,792 - INFO - ✅ Processado: extraidos\AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-07 19:01:10,967 - ERROR - ❌ Erro durante o chunk do download AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf (tentativa 1): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:2546)
+2025-11-08 15:05:23,949 - INFO - 🔑 Autenticação no Google Drive realizada com sucesso.
+2025-11-08 15:05:23,959 - INFO - 📁 Buscando arquivos PDF na pasta (ID): 1eV3aeMYYchVG2DBrVaKYHc0jwx1Q_a21
+2025-11-08 15:05:24,812 - INFO - 📊 27 arquivo(s) PDF encontrado(s) na pasta do Drive.
+2025-11-08 15:05:24,813 - INFO - [1/27] 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf (ID: 1W45WRFHaZLwVc0ANdEaeZ_SiLaQF8bi3)
+2025-11-08 15:05:24,813 - INFO - [2/27] 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf (ID: 1nEwONl4-y70-FlLqf0Y40WT3c-iB-AQS)
+2025-11-08 15:05:24,813 - INFO - [3/27] 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1h6vR321ROyiydWAyiH3--qzM7wKhPIIB)
+2025-11-08 15:05:24,813 - INFO - [4/27] 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (ID: 1ZH1J-ID8TltguAPLfTQCcmsvF8nu7d8u)
+2025-11-08 15:05:24,814 - INFO - [5/27] 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 18OhgfGA1qH7wY0_-0Qlok8hENGZuq7AH)
+2025-11-08 15:05:24,814 - INFO - [6/27] 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf (ID: 168KnVVr2vrT__nyy90VTPBrhZbgrZDuM)
+2025-11-08 15:05:24,814 - INFO - [7/27] 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 1ziGjP2v-JNctj7qtdT7uGs-olq4QXjpt)
+2025-11-08 15:05:24,814 - INFO - [8/27] ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1izmH7Ryiu4YLge-Ua7J56k8_xaXaaTti)
+2025-11-08 15:05:24,814 - INFO - [9/27] AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1XPeIdamRbJIfGsPTZuboNctAY9Qdy3aR)
+2025-11-08 15:05:24,815 - INFO - [10/27] AGENDAOS.-.Contrato.de.Empresa.Associada.pdf (ID: 1iCAS8a61o_guj6bDkgUq_rBqU9tgosQ4)
+2025-11-08 15:05:24,815 - INFO - [11/27] AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf (ID: 1xxQ3UPV7LSxpq3jJVN8bqm_CMS-QKPgV)
+2025-11-08 15:05:24,815 - INFO - [12/27] AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf (ID: 1dsjNf9OGUdeksdIYMGbrDiENIQMLDUD6)
+2025-11-08 15:05:24,815 - INFO - [13/27] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Z0Lk6J8FAWuCmJnlE1fij8ZERh56EBKz)
+2025-11-08 15:05:24,815 - INFO - [14/27] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf (ID: 1m6h5DQtjf5sgHj4-qJ0yzUmdL4STOPIp)
+2025-11-08 15:05:24,816 - INFO - [15/27] ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf (ID: 18YrSWkUHPFlg2sR8wVkjCWWGeE3Ys4Nl)
+2025-11-08 15:05:24,816 - INFO - [16/27] ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf (ID: 17wTMtC03Pb8ICq4-MQ8tCiNKoo1crT_4)
+2025-11-08 15:05:24,816 - INFO - [17/27] ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf (ID: 12wFfGGAx9ZM6zEmA7Ey1-EyiMuT_P6GW)
+2025-11-08 15:05:24,816 - INFO - [18/27] ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf (ID: 1w4KH-kyeATo7nLdvwUERr_mRfVU7Xkzl)
+2025-11-08 15:05:24,816 - INFO - [19/27] AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf (ID: 1menZ3cBSJvYQQmzGC0vtRHFDM4yDabsD)
+2025-11-08 15:05:24,816 - INFO - [20/27] AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 157Tg66N-7uXLuU-h3X24Dcg5dJ0_fLEc)
+2025-11-08 15:05:24,817 - INFO - [21/27] ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1fQWQJZfGEASo83nzcs8VY-Tgx4fP8rJj)
+2025-11-08 15:05:24,817 - INFO - [22/27] ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1HJ2kESx0aKxYDz75JSRq95Z277jaeMoA)
+2025-11-08 15:05:24,817 - INFO - [23/27] ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Igy8QFH91lkz6LHuxSNOo_ZIhdV_K-F9)
+2025-11-08 15:05:24,817 - INFO - [24/27] ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1F2OKtvkETGFJq7iAej0ewAh6B_VDl4Gn)
+2025-11-08 15:05:24,817 - INFO - [25/27] ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf (ID: 1LqN8k6vwrEdYJQ5jwVIwXVzxJfA8ULmV)
+2025-11-08 15:05:24,818 - INFO - [26/27] ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 156U7oPTOJt9rlFLTcVAxHUrzaima9Wjm)
+2025-11-08 15:05:24,818 - INFO - [27/27] ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1SiYJMJfRb7eqG3EEj-Z3v2rmSC7PRg-y)
+2025-11-08 15:05:24,818 - INFO - Iniciando processamento de 27 PDFs...
+2025-11-08 15:05:24,821 - INFO - ⏩ Pulando download (já existe e não está vazio): 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf
+2025-11-08 15:05:24,822 - INFO - ✅ Processado: extraidos\35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf
+2025-11-08 15:05:24,822 - INFO - ⏩ Pulando download (já existe e não está vazio): 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:24,823 - INFO - ✅ Processado: extraidos\3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:24,823 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:26,152 - INFO - ✅ Download concluído: 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (1.33s)
+2025-11-08 15:05:26,152 - INFO - ✅ Processado: extraidos\3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:26,153 - INFO - ⏩ Pulando download (já existe e não está vazio): 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf
+2025-11-08 15:05:26,153 - INFO - ✅ Processado: extraidos\50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf
+2025-11-08 15:05:26,153 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-08 15:05:28,292 - INFO - ✅ Download concluído: 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (2.14s)
+2025-11-08 15:05:28,292 - INFO - ✅ Processado: extraidos\53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-08 15:05:28,293 - INFO - ⏩ Pulando download (já existe e não está vazio): 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:28,294 - INFO - ✅ Processado: extraidos\53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:28,294 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-08 15:05:30,069 - INFO - ✅ Download concluído: 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (1.77s)
+2025-11-08 15:05:30,070 - INFO - ✅ Processado: extraidos\53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-08 15:05:30,070 - INFO - ⏩ Pulando download (já existe e não está vazio): ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:30,071 - INFO - ✅ Processado: extraidos\ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:30,072 - INFO - ⏩ Pulando download (já existe e não está vazio): AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:30,072 - INFO - ✅ Processado: extraidos\AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:30,072 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: AGENDAOS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:31,619 - INFO - ✅ Download concluído: AGENDAOS.-.Contrato.de.Empresa.Associada.pdf (1.55s)
+2025-11-08 15:05:31,620 - INFO - ✅ Processado: extraidos\AGENDAOS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:31,620 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf
+2025-11-08 15:05:33,180 - INFO - ✅ Download concluído: AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf (1.56s)
+2025-11-08 15:05:33,181 - INFO - ✅ Processado: extraidos\AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf
+2025-11-08 15:05:33,181 - WARNING - ⚠️ Arquivo existente está vazio. Baixando novamente: AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:34,848 - INFO - ✅ Download concluído: AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf (1.67s)
+2025-11-08 15:05:34,849 - INFO - ✅ Processado: extraidos\AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:36,146 - INFO - ✅ Download concluído: AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (1.30s)
+2025-11-08 15:05:36,147 - INFO - ✅ Processado: extraidos\AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:37,356 - INFO - ✅ Download concluído: AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf (1.21s)
+2025-11-08 15:05:37,357 - INFO - ✅ Processado: extraidos\AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf
+2025-11-08 15:05:38,958 - INFO - ✅ Download concluído: ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf (1.60s)
+2025-11-08 15:05:38,958 - INFO - ✅ Processado: extraidos\ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf
+2025-11-08 15:05:40,471 - INFO - ✅ Download concluído: ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf (1.51s)
+2025-11-08 15:05:40,472 - INFO - ✅ Processado: extraidos\ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:41,721 - INFO - ✅ Download concluído: ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf (1.25s)
+2025-11-08 15:05:41,722 - INFO - ✅ Processado: extraidos\ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf
+2025-11-08 15:05:43,092 - INFO - ✅ Download concluído: ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf (1.37s)
+2025-11-08 15:05:43,092 - INFO - ✅ Processado: extraidos\ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:45,569 - INFO - ✅ Download concluído: AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf (2.48s)
+2025-11-08 15:05:45,569 - INFO - ✅ Processado: extraidos\AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf
+2025-11-08 15:05:47,932 - INFO - ✅ Download concluído: AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf (2.36s)
+2025-11-08 15:05:47,933 - INFO - ✅ Processado: extraidos\AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:51,146 - INFO - ✅ Download concluído: ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf (3.21s)
+2025-11-08 15:05:51,148 - INFO - ✅ Processado: extraidos\ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:52,459 - INFO - ✅ Download concluído: ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (1.31s)
+2025-11-08 15:05:52,459 - INFO - ✅ Processado: extraidos\ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:54,130 - INFO - ✅ Download concluído: ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf (1.67s)
+2025-11-08 15:05:54,132 - INFO - ✅ Processado: extraidos\ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:55,673 - INFO - ✅ Download concluído: ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf (1.54s)
+2025-11-08 15:05:55,673 - INFO - ✅ Processado: extraidos\ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:05:56,726 - INFO - ✅ Download concluído: ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf (1.05s)
+2025-11-08 15:05:56,726 - INFO - ✅ Processado: extraidos\ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf
+2025-11-08 15:05:58,523 - INFO - ✅ Download concluído: ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (1.80s)
+2025-11-08 15:05:58,523 - INFO - ✅ Processado: extraidos\ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-08 15:06:00,089 - INFO - ✅ Download concluído: ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf (1.57s)
+2025-11-08 15:06:00,089 - INFO - ✅ Processado: extraidos\ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:06,211 - INFO - 🔑 Autenticação no Google Drive realizada com sucesso.
+2025-11-21 23:29:06,249 - INFO - 📁 Buscando arquivos PDF na pasta (ID): 1eV3aeMYYchVG2DBrVaKYHc0jwx1Q_a21
+2025-11-21 23:29:06,835 - INFO - 📊 27 arquivo(s) PDF encontrado(s) na pasta do Drive.
+2025-11-21 23:29:06,836 - INFO - [1/27] 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf (ID: 1W45WRFHaZLwVc0ANdEaeZ_SiLaQF8bi3)
+2025-11-21 23:29:06,837 - INFO - [2/27] 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf (ID: 1nEwONl4-y70-FlLqf0Y40WT3c-iB-AQS)
+2025-11-21 23:29:06,837 - INFO - [3/27] 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1h6vR321ROyiydWAyiH3--qzM7wKhPIIB)
+2025-11-21 23:29:06,837 - INFO - [4/27] 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (ID: 1ZH1J-ID8TltguAPLfTQCcmsvF8nu7d8u)
+2025-11-21 23:29:06,837 - INFO - [5/27] 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 18OhgfGA1qH7wY0_-0Qlok8hENGZuq7AH)
+2025-11-21 23:29:06,837 - INFO - [6/27] 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf (ID: 168KnVVr2vrT__nyy90VTPBrhZbgrZDuM)
+2025-11-21 23:29:06,837 - INFO - [7/27] 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 1ziGjP2v-JNctj7qtdT7uGs-olq4QXjpt)
+2025-11-21 23:29:06,838 - INFO - [8/27] ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1izmH7Ryiu4YLge-Ua7J56k8_xaXaaTti)
+2025-11-21 23:29:06,838 - INFO - [9/27] AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1XPeIdamRbJIfGsPTZuboNctAY9Qdy3aR)
+2025-11-21 23:29:06,838 - INFO - [10/27] AGENDAOS.-.Contrato.de.Empresa.Associada.pdf (ID: 1iCAS8a61o_guj6bDkgUq_rBqU9tgosQ4)
+2025-11-21 23:29:06,838 - INFO - [11/27] AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf (ID: 1xxQ3UPV7LSxpq3jJVN8bqm_CMS-QKPgV)
+2025-11-21 23:29:06,838 - INFO - [12/27] AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf (ID: 1dsjNf9OGUdeksdIYMGbrDiENIQMLDUD6)
+2025-11-21 23:29:06,838 - INFO - [13/27] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Z0Lk6J8FAWuCmJnlE1fij8ZERh56EBKz)
+2025-11-21 23:29:06,838 - INFO - [14/27] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf (ID: 1m6h5DQtjf5sgHj4-qJ0yzUmdL4STOPIp)
+2025-11-21 23:29:06,839 - INFO - [15/27] ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf (ID: 18YrSWkUHPFlg2sR8wVkjCWWGeE3Ys4Nl)
+2025-11-21 23:29:06,839 - INFO - [16/27] ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf (ID: 17wTMtC03Pb8ICq4-MQ8tCiNKoo1crT_4)
+2025-11-21 23:29:06,839 - INFO - [17/27] ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf (ID: 12wFfGGAx9ZM6zEmA7Ey1-EyiMuT_P6GW)
+2025-11-21 23:29:06,839 - INFO - [18/27] ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf (ID: 1w4KH-kyeATo7nLdvwUERr_mRfVU7Xkzl)
+2025-11-21 23:29:06,839 - INFO - [19/27] AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf (ID: 1menZ3cBSJvYQQmzGC0vtRHFDM4yDabsD)
+2025-11-21 23:29:06,839 - INFO - [20/27] AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 157Tg66N-7uXLuU-h3X24Dcg5dJ0_fLEc)
+2025-11-21 23:29:06,839 - INFO - [21/27] ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1fQWQJZfGEASo83nzcs8VY-Tgx4fP8rJj)
+2025-11-21 23:29:06,840 - INFO - [22/27] ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1HJ2kESx0aKxYDz75JSRq95Z277jaeMoA)
+2025-11-21 23:29:06,840 - INFO - [23/27] ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Igy8QFH91lkz6LHuxSNOo_ZIhdV_K-F9)
+2025-11-21 23:29:06,840 - INFO - [24/27] ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1F2OKtvkETGFJq7iAej0ewAh6B_VDl4Gn)
+2025-11-21 23:29:06,840 - INFO - [25/27] ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf (ID: 1LqN8k6vwrEdYJQ5jwVIwXVzxJfA8ULmV)
+2025-11-21 23:29:06,840 - INFO - [26/27] ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 156U7oPTOJt9rlFLTcVAxHUrzaima9Wjm)
+2025-11-21 23:29:06,845 - INFO - [27/27] ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1SiYJMJfRb7eqG3EEj-Z3v2rmSC7PRg-y)
+2025-11-21 23:29:06,845 - INFO - Iniciando processamento de 27 PDFs...
+2025-11-21 23:29:06,850 - INFO - ⏩ Pulando download (já existe e não está vazio): 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf
+2025-11-21 23:29:06,853 - INFO - ✅ Processado: extraidos\35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf
+2025-11-21 23:29:08,346 - INFO - ✅ Download concluído: 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf (1.49s)
+2025-11-21 23:29:08,347 - INFO - ✅ Processado: extraidos\3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,348 - INFO - ⏩ Pulando download (já existe e não está vazio): 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,349 - INFO - ✅ Processado: extraidos\3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,349 - INFO - ⏩ Pulando download (já existe e não está vazio): 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf
+2025-11-21 23:29:08,350 - INFO - ✅ Processado: extraidos\50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf
+2025-11-21 23:29:08,350 - INFO - ⏩ Pulando download (já existe e não está vazio): 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-21 23:29:08,351 - INFO - ✅ Processado: extraidos\53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-21 23:29:08,352 - INFO - ⏩ Pulando download (já existe e não está vazio): 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,352 - INFO - ✅ Processado: extraidos\53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,353 - INFO - ⏩ Pulando download (já existe e não está vazio): 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-21 23:29:08,353 - INFO - ✅ Processado: extraidos\53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-21 23:29:08,354 - INFO - ⏩ Pulando download (já existe e não está vazio): ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,354 - INFO - ✅ Processado: extraidos\ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,355 - INFO - ⏩ Pulando download (já existe e não está vazio): AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,356 - INFO - ✅ Processado: extraidos\AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,356 - INFO - ⏩ Pulando download (já existe e não está vazio): AGENDAOS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,357 - INFO - ✅ Processado: extraidos\AGENDAOS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,357 - INFO - ⏩ Pulando download (já existe e não está vazio): AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf
+2025-11-21 23:29:08,358 - INFO - ✅ Processado: extraidos\AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf
+2025-11-21 23:29:08,358 - INFO - ⏩ Pulando download (já existe e não está vazio): AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,359 - INFO - ✅ Processado: extraidos\AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,359 - INFO - ⏩ Pulando download (já existe e não está vazio): AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,360 - INFO - ✅ Processado: extraidos\AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,361 - INFO - ⏩ Pulando download (já existe e não está vazio): AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf
+2025-11-21 23:29:08,361 - INFO - ✅ Processado: extraidos\AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf
+2025-11-21 23:29:08,361 - INFO - ⏩ Pulando download (já existe e não está vazio): ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf
+2025-11-21 23:29:08,362 - INFO - ✅ Processado: extraidos\ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf
+2025-11-21 23:29:08,363 - INFO - ⏩ Pulando download (já existe e não está vazio): ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,364 - INFO - ✅ Processado: extraidos\ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,364 - INFO - ⏩ Pulando download (já existe e não está vazio): ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf
+2025-11-21 23:29:08,365 - INFO - ✅ Processado: extraidos\ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf
+2025-11-21 23:29:08,365 - INFO - ⏩ Pulando download (já existe e não está vazio): ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,366 - INFO - ✅ Processado: extraidos\ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,366 - INFO - ⏩ Pulando download (já existe e não está vazio): AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf
+2025-11-21 23:29:08,367 - INFO - ✅ Processado: extraidos\AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf
+2025-11-21 23:29:08,367 - INFO - ⏩ Pulando download (já existe e não está vazio): AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,367 - INFO - ✅ Processado: extraidos\AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,368 - INFO - ⏩ Pulando download (já existe e não está vazio): ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,368 - INFO - ✅ Processado: extraidos\ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,368 - INFO - ⏩ Pulando download (já existe e não está vazio): ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,370 - INFO - ✅ Processado: extraidos\ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,370 - INFO - ⏩ Pulando download (já existe e não está vazio): ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,371 - INFO - ✅ Processado: extraidos\ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,371 - INFO - ⏩ Pulando download (já existe e não está vazio): ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,371 - INFO - ✅ Processado: extraidos\ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,372 - INFO - ⏩ Pulando download (já existe e não está vazio): ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf
+2025-11-21 23:29:08,372 - INFO - ✅ Processado: extraidos\ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf
+2025-11-21 23:29:08,373 - INFO - ⏩ Pulando download (já existe e não está vazio): ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,373 - INFO - ✅ Processado: extraidos\ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,373 - INFO - ⏩ Pulando download (já existe e não está vazio): ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-21 23:29:08,374 - INFO - ✅ Processado: extraidos\ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:01,940 - INFO - 🔑 Autenticação no Google Drive realizada com sucesso.
+2025-11-30 20:45:01,973 - INFO - 📁 Buscando arquivos PDF na pasta (ID): 1eV3aeMYYchVG2DBrVaKYHc0jwx1Q_a21
+2025-11-30 20:45:02,519 - INFO - 📊 28 arquivo(s) PDF encontrado(s) na pasta do Drive.
+2025-11-30 20:45:02,519 - INFO - [1/28] ADRIANO.CORDEIRO.CHAGAS ESCANEADO.pdf (ID: 1n0BJUL75_nFB3JWRW4ESuVgu_SWu9Wku)
+2025-11-30 20:45:02,520 - INFO - [2/28] 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf (ID: 1W45WRFHaZLwVc0ANdEaeZ_SiLaQF8bi3)
+2025-11-30 20:45:02,520 - INFO - [3/28] 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf (ID: 1nEwONl4-y70-FlLqf0Y40WT3c-iB-AQS)
+2025-11-30 20:45:02,521 - INFO - [4/28] 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1h6vR321ROyiydWAyiH3--qzM7wKhPIIB)
+2025-11-30 20:45:02,521 - INFO - [5/28] 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (ID: 1ZH1J-ID8TltguAPLfTQCcmsvF8nu7d8u)
+2025-11-30 20:45:02,522 - INFO - [6/28] 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 18OhgfGA1qH7wY0_-0Qlok8hENGZuq7AH)
+2025-11-30 20:45:02,522 - INFO - [7/28] 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf (ID: 168KnVVr2vrT__nyy90VTPBrhZbgrZDuM)
+2025-11-30 20:45:02,523 - INFO - [8/28] 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 1ziGjP2v-JNctj7qtdT7uGs-olq4QXjpt)
+2025-11-30 20:45:02,523 - INFO - [9/28] ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1izmH7Ryiu4YLge-Ua7J56k8_xaXaaTti)
+2025-11-30 20:45:02,523 - INFO - [10/28] AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1XPeIdamRbJIfGsPTZuboNctAY9Qdy3aR)
+2025-11-30 20:45:02,524 - INFO - [11/28] AGENDAOS.-.Contrato.de.Empresa.Associada.pdf (ID: 1iCAS8a61o_guj6bDkgUq_rBqU9tgosQ4)
+2025-11-30 20:45:02,524 - INFO - [12/28] AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf (ID: 1xxQ3UPV7LSxpq3jJVN8bqm_CMS-QKPgV)
+2025-11-30 20:45:02,524 - INFO - [13/28] AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf (ID: 1dsjNf9OGUdeksdIYMGbrDiENIQMLDUD6)
+2025-11-30 20:45:02,524 - INFO - [14/28] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Z0Lk6J8FAWuCmJnlE1fij8ZERh56EBKz)
+2025-11-30 20:45:02,525 - INFO - [15/28] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf (ID: 1m6h5DQtjf5sgHj4-qJ0yzUmdL4STOPIp)
+2025-11-30 20:45:02,528 - INFO - [16/28] ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf (ID: 18YrSWkUHPFlg2sR8wVkjCWWGeE3Ys4Nl)
+2025-11-30 20:45:02,529 - INFO - [17/28] ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf (ID: 17wTMtC03Pb8ICq4-MQ8tCiNKoo1crT_4)
+2025-11-30 20:45:02,529 - INFO - [18/28] ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf (ID: 12wFfGGAx9ZM6zEmA7Ey1-EyiMuT_P6GW)
+2025-11-30 20:45:02,529 - INFO - [19/28] ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf (ID: 1w4KH-kyeATo7nLdvwUERr_mRfVU7Xkzl)
+2025-11-30 20:45:02,529 - INFO - [20/28] AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf (ID: 1menZ3cBSJvYQQmzGC0vtRHFDM4yDabsD)
+2025-11-30 20:45:02,530 - INFO - [21/28] AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 157Tg66N-7uXLuU-h3X24Dcg5dJ0_fLEc)
+2025-11-30 20:45:02,530 - INFO - [22/28] ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1fQWQJZfGEASo83nzcs8VY-Tgx4fP8rJj)
+2025-11-30 20:45:02,531 - INFO - [23/28] ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1HJ2kESx0aKxYDz75JSRq95Z277jaeMoA)
+2025-11-30 20:45:02,531 - INFO - [24/28] ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Igy8QFH91lkz6LHuxSNOo_ZIhdV_K-F9)
+2025-11-30 20:45:02,531 - INFO - [25/28] ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1F2OKtvkETGFJq7iAej0ewAh6B_VDl4Gn)
+2025-11-30 20:45:02,531 - INFO - [26/28] ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf (ID: 1LqN8k6vwrEdYJQ5jwVIwXVzxJfA8ULmV)
+2025-11-30 20:45:02,531 - INFO - [27/28] ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 156U7oPTOJt9rlFLTcVAxHUrzaima9Wjm)
+2025-11-30 20:45:02,531 - INFO - [28/28] ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1SiYJMJfRb7eqG3EEj-Z3v2rmSC7PRg-y)
+2025-11-30 20:45:02,531 - INFO - Iniciando processamento de 28 PDFs...
+2025-11-30 20:45:04,295 - INFO - ✅ Download concluído: ADRIANO.CORDEIRO.CHAGAS ESCANEADO.pdf (1.76s)
+2025-11-30 20:45:04,296 - INFO - ✅ Processado: extraidos\ADRIANO.CORDEIRO.CHAGAS ESCANEADO.pdf
+2025-11-30 20:45:04,296 - INFO - ⏩ Pulando download (já existe e não está vazio): 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf
+2025-11-30 20:45:04,297 - INFO - ✅ Processado: extraidos\35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf
+2025-11-30 20:45:04,297 - INFO - ⏩ Pulando download (já existe e não está vazio): 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,297 - INFO - ✅ Processado: extraidos\3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,297 - INFO - ⏩ Pulando download (já existe e não está vazio): 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,298 - INFO - ✅ Processado: extraidos\3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,298 - INFO - ⏩ Pulando download (já existe e não está vazio): 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf
+2025-11-30 20:45:04,298 - INFO - ✅ Processado: extraidos\50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf
+2025-11-30 20:45:04,298 - INFO - ⏩ Pulando download (já existe e não está vazio): 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-30 20:45:04,300 - INFO - ✅ Processado: extraidos\53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-30 20:45:04,300 - INFO - ⏩ Pulando download (já existe e não está vazio): 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,300 - INFO - ✅ Processado: extraidos\53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,300 - INFO - ⏩ Pulando download (já existe e não está vazio): 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-30 20:45:04,302 - INFO - ⏩ Pulando download (já existe e não está vazio): ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,303 - INFO - ✅ Processado: extraidos\53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-11-30 20:45:04,303 - INFO - ⏩ Pulando download (já existe e não está vazio): AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,303 - INFO - ⏩ Pulando download (já existe e não está vazio): AGENDAOS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,304 - INFO - ⏩ Pulando download (já existe e não está vazio): AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf
+2025-11-30 20:45:04,304 - INFO - ⏩ Pulando download (já existe e não está vazio): AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,304 - INFO - ⏩ Pulando download (já existe e não está vazio): AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,304 - INFO - ⏩ Pulando download (já existe e não está vazio): AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf
+2025-11-30 20:45:04,305 - INFO - ✅ Processado: extraidos\ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,305 - INFO - ⏩ Pulando download (já existe e não está vazio): ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf
+2025-11-30 20:45:04,305 - INFO - ✅ Processado: extraidos\AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,306 - INFO - ⏩ Pulando download (já existe e não está vazio): ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,306 - INFO - ✅ Processado: extraidos\AGENDAOS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,306 - INFO - ⏩ Pulando download (já existe e não está vazio): ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf
+2025-11-30 20:45:04,307 - INFO - ⏩ Pulando download (já existe e não está vazio): ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,307 - INFO - ⏩ Pulando download (já existe e não está vazio): AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf
+2025-11-30 20:45:04,309 - INFO - ⏩ Pulando download (já existe e não está vazio): AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,309 - INFO - ✅ Processado: extraidos\AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf
+2025-11-30 20:45:04,310 - INFO - ⏩ Pulando download (já existe e não está vazio): ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,310 - INFO - ✅ Processado: extraidos\AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,310 - INFO - ⏩ Pulando download (já existe e não está vazio): ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,310 - INFO - ✅ Processado: extraidos\AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,310 - INFO - ⏩ Pulando download (já existe e não está vazio): ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,311 - INFO - ✅ Processado: extraidos\AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf
+2025-11-30 20:45:04,311 - INFO - ⏩ Pulando download (já existe e não está vazio): ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,311 - INFO - ✅ Processado: extraidos\ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf
+2025-11-30 20:45:04,311 - INFO - ⏩ Pulando download (já existe e não está vazio): ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf
+2025-11-30 20:45:04,311 - INFO - ✅ Processado: extraidos\ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,311 - INFO - ✅ Processado: extraidos\ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf
+2025-11-30 20:45:04,311 - INFO - ✅ Processado: extraidos\ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,312 - INFO - ⏩ Pulando download (já existe e não está vazio): ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,312 - INFO - ✅ Processado: extraidos\AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf
+2025-11-30 20:45:04,312 - INFO - ⏩ Pulando download (já existe e não está vazio): ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,312 - INFO - ✅ Processado: extraidos\AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,312 - INFO - ✅ Processado: extraidos\ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,313 - INFO - ✅ Processado: extraidos\ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,313 - INFO - ✅ Processado: extraidos\ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,313 - INFO - ✅ Processado: extraidos\ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,314 - INFO - ✅ Processado: extraidos\ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf
+2025-11-30 20:45:04,314 - INFO - ✅ Processado: extraidos\ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-11-30 20:45:04,314 - INFO - ✅ Processado: extraidos\ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:49,379 - INFO - 🔑 Autenticação no Google Drive realizada com sucesso.
+2025-12-03 11:52:49,416 - INFO - 📁 Buscando arquivos PDF na pasta (ID): 1eV3aeMYYchVG2DBrVaKYHc0jwx1Q_a21
+2025-12-03 11:52:50,030 - INFO - 📊 28 arquivo(s) PDF encontrado(s) na pasta do Drive.
+2025-12-03 11:52:50,030 - INFO - [1/28] ADRIANO.CORDEIRO.CHAGAS ESCANEADO.pdf (ID: 1n0BJUL75_nFB3JWRW4ESuVgu_SWu9Wku)
+2025-12-03 11:52:50,030 - INFO - [2/28] 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf (ID: 1W45WRFHaZLwVc0ANdEaeZ_SiLaQF8bi3)
+2025-12-03 11:52:50,031 - INFO - [3/28] 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf (ID: 1nEwONl4-y70-FlLqf0Y40WT3c-iB-AQS)
+2025-12-03 11:52:50,031 - INFO - [4/28] 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1h6vR321ROyiydWAyiH3--qzM7wKhPIIB)
+2025-12-03 11:52:50,031 - INFO - [5/28] 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf (ID: 1ZH1J-ID8TltguAPLfTQCcmsvF8nu7d8u)
+2025-12-03 11:52:50,031 - INFO - [6/28] 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 18OhgfGA1qH7wY0_-0Qlok8hENGZuq7AH)
+2025-12-03 11:52:50,031 - INFO - [7/28] 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf (ID: 168KnVVr2vrT__nyy90VTPBrhZbgrZDuM)
+2025-12-03 11:52:50,032 - INFO - [8/28] 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (ID: 1ziGjP2v-JNctj7qtdT7uGs-olq4QXjpt)
+2025-12-03 11:52:50,032 - INFO - [9/28] ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1izmH7Ryiu4YLge-Ua7J56k8_xaXaaTti)
+2025-12-03 11:52:50,032 - INFO - [10/28] AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1XPeIdamRbJIfGsPTZuboNctAY9Qdy3aR)
+2025-12-03 11:52:50,032 - INFO - [11/28] AGENDAOS.-.Contrato.de.Empresa.Associada.pdf (ID: 1iCAS8a61o_guj6bDkgUq_rBqU9tgosQ4)
+2025-12-03 11:52:50,032 - INFO - [12/28] AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf (ID: 1xxQ3UPV7LSxpq3jJVN8bqm_CMS-QKPgV)
+2025-12-03 11:52:50,033 - INFO - [13/28] AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf (ID: 1dsjNf9OGUdeksdIYMGbrDiENIQMLDUD6)
+2025-12-03 11:52:50,033 - INFO - [14/28] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Z0Lk6J8FAWuCmJnlE1fij8ZERh56EBKz)
+2025-12-03 11:52:50,033 - INFO - [15/28] AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf (ID: 1m6h5DQtjf5sgHj4-qJ0yzUmdL4STOPIp)
+2025-12-03 11:52:50,033 - INFO - [16/28] ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf (ID: 18YrSWkUHPFlg2sR8wVkjCWWGeE3Ys4Nl)
+2025-12-03 11:52:50,034 - INFO - [17/28] ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf (ID: 17wTMtC03Pb8ICq4-MQ8tCiNKoo1crT_4)
+2025-12-03 11:52:50,034 - INFO - [18/28] ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf (ID: 12wFfGGAx9ZM6zEmA7Ey1-EyiMuT_P6GW)
+2025-12-03 11:52:50,034 - INFO - [19/28] ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf (ID: 1w4KH-kyeATo7nLdvwUERr_mRfVU7Xkzl)
+2025-12-03 11:52:50,034 - INFO - [20/28] AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf (ID: 1menZ3cBSJvYQQmzGC0vtRHFDM4yDabsD)
+2025-12-03 11:52:50,035 - INFO - [21/28] AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 157Tg66N-7uXLuU-h3X24Dcg5dJ0_fLEc)
+2025-12-03 11:52:50,037 - INFO - [22/28] ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1fQWQJZfGEASo83nzcs8VY-Tgx4fP8rJj)
+2025-12-03 11:52:50,037 - INFO - [23/28] ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1HJ2kESx0aKxYDz75JSRq95Z277jaeMoA)
+2025-12-03 11:52:50,038 - INFO - [24/28] ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1Igy8QFH91lkz6LHuxSNOo_ZIhdV_K-F9)
+2025-12-03 11:52:50,039 - INFO - [25/28] ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1F2OKtvkETGFJq7iAej0ewAh6B_VDl4Gn)
+2025-12-03 11:52:50,039 - INFO - [26/28] ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf (ID: 1LqN8k6vwrEdYJQ5jwVIwXVzxJfA8ULmV)
+2025-12-03 11:52:50,040 - INFO - [27/28] ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 156U7oPTOJt9rlFLTcVAxHUrzaima9Wjm)
+2025-12-03 11:52:50,041 - INFO - [28/28] ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf (ID: 1SiYJMJfRb7eqG3EEj-Z3v2rmSC7PRg-y)
+2025-12-03 11:52:50,043 - INFO - Iniciando processamento de 28 PDFs...
+2025-12-03 11:52:50,046 - INFO - ⏩ Pulando download (já existe e não está vazio): ADRIANO.CORDEIRO.CHAGAS ESCANEADO.pdf
+2025-12-03 11:52:50,047 - INFO - ⏩ Pulando download (já existe e não está vazio): 35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf
+2025-12-03 11:52:50,047 - INFO - ✅ Processado: extraidos\ADRIANO.CORDEIRO.CHAGAS ESCANEADO.pdf
+2025-12-03 11:52:50,049 - INFO - ⏩ Pulando download (já existe e não está vazio): 3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:50,049 - INFO - ✅ Processado: extraidos\35.390.225.THAIS.BIANCA.BOGADO.YARED.-.Contrato.Empresa.Associada.pdf
+2025-12-03 11:52:50,050 - INFO - ⏩ Pulando download (já existe e não está vazio): 3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:50,050 - INFO - ✅ Processado: extraidos\3DI.ENGENHARIA.e.PURE.TECH.ENERGY.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:50,051 - INFO - ⏩ Pulando download (já existe e não está vazio): 50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf
+2025-12-03 11:52:50,051 - INFO - ✅ Processado: extraidos\3G.INOVACAO.-.CONSULTORIA.EMPRESARIAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:50,058 - INFO - ✅ Processado: extraidos\50.546.253.DENILSON.RODRIGUES.-.Contrato.de.Empresa.Associada.BUILT.TO.SUIT.pdf
+2025-12-03 11:52:51,824 - INFO - ✅ Download concluído: 53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (1.77s)
+2025-12-03 11:52:51,825 - INFO - ✅ Processado: extraidos\53.502.564.ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-12-03 11:52:51,825 - INFO - ⏩ Pulando download (já existe e não está vazio): 53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:51,825 - INFO - ✅ Processado: extraidos\53.966.549.GUSTAVO.ADRIANO.DECKER.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,055 - INFO - ✅ Download concluído: 53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf (2.23s)
+2025-12-03 11:52:54,056 - INFO - ✅ Processado: extraidos\53-502-564-ADRIANO.CORDEIRO.CHAGAS.-.Food.Truck.-.Contrato.Empresa.Associada.pdf
+2025-12-03 11:52:54,056 - INFO - ⏩ Pulando download (já existe e não está vazio): ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,057 - INFO - ✅ Processado: extraidos\ABTEC.INSTALACOES.E.MANUTENCOES.INDUSTRIAIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,057 - INFO - ⏩ Pulando download (já existe e não está vazio): AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,058 - INFO - ✅ Processado: extraidos\AD.FOODS.INDUSTRIA.DE.PRODUTOS.ALIMENTICIOS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,058 - INFO - ⏩ Pulando download (já existe e não está vazio): AGENDAOS.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,059 - INFO - ✅ Processado: extraidos\AGENDAOS.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,059 - INFO - ⏩ Pulando download (já existe e não está vazio): AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf
+2025-12-03 11:52:54,059 - INFO - ✅ Processado: extraidos\AGROVIC.ASSESSORIA.LTDA.-.Contrato.Empresa.Associada.pdf
+2025-12-03 11:52:54,060 - INFO - ⏩ Pulando download (já existe e não está vazio): AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,060 - INFO - ⏩ Pulando download (já existe e não está vazio): AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,061 - INFO - ✅ Processado: extraidos\AJJ.SERVICOS.CONTABEIS.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,062 - INFO - ⏩ Pulando download (já existe e não está vazio): AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf
+2025-12-03 11:52:54,063 - INFO - ⏩ Pulando download (já existe e não está vazio): ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf
+2025-12-03 11:52:54,064 - INFO - ⏩ Pulando download (já existe e não está vazio): ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,065 - INFO - ⏩ Pulando download (já existe e não está vazio): ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf
+2025-12-03 11:52:54,066 - INFO - ⏩ Pulando download (já existe e não está vazio): ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,068 - INFO - ⏩ Pulando download (já existe e não está vazio): AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf
+2025-12-03 11:52:54,068 - INFO - ✅ Processado: extraidos\AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,069 - INFO - ✅ Processado: extraidos\AJJ.SERVICOS.CONTABEIS.LTDA.-.Contrato.de.Empresa.Associada.1.pdf
+2025-12-03 11:52:54,069 - INFO - ⏩ Pulando download (já existe e não está vazio): AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,069 - INFO - ✅ Processado: extraidos\ALLESNANO.LTDA.-.Contrato.de.Empresa.Associada.Novo.pdf
+2025-12-03 11:52:54,069 - INFO - ✅ Processado: extraidos\ALVARO.VINICIUS.FERRARI.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,070 - INFO - ⏩ Pulando download (já existe e não está vazio): ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,070 - INFO - ✅ Processado: extraidos\ANATONELLY.TRANSPORTES.LTDA.-.Notificacao.Extrajudicial.pdf
+2025-12-03 11:52:54,070 - INFO - ✅ Processado: extraidos\ANDREY.BARRETO.MOLINARI.COMERCIO.SERVICOS.E.FABRICACAO.DE.MAQUINAS.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,070 - INFO - ⏩ Pulando download (já existe e não está vazio): ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,070 - INFO - ✅ Processado: extraidos\AQUARIU.S.PEIXE.x.AQUARIU.S.CONVENIENCIA.-.Termo.de.Cessao.de.Direitos.e.Obrigacoes.em.Contrato.de.Associacao.de.Empresa.pdf
+2025-12-03 11:52:54,071 - INFO - ✅ Processado: extraidos\AQUARIU.S.PEIXES.E.FRUTOS.DO.MAR.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,071 - INFO - ⏩ Pulando download (já existe e não está vazio): ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,071 - INFO - ✅ Processado: extraidos\ARQFOOD.STORE.E.BUSINESS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,071 - INFO - ✅ Processado: extraidos\ARQFOOD.BUSINESS.MARKETING.DIGITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,072 - INFO - ⏩ Pulando download (já existe e não está vazio): ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,072 - INFO - ✅ Processado: extraidos\ARCIMOL.-.PRE.MOLDADOS.E.CONSTRUTORA.DE.OBRAS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,072 - INFO - ⏩ Pulando download (já existe e não está vazio): ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf
+2025-12-03 11:52:54,073 - INFO - ✅ Processado: extraidos\ARS.ARQUITETURA.PLANEJAMENTO.SS.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,073 - INFO - ⏩ Pulando download (já existe e não está vazio): ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,073 - INFO - ✅ Processado: extraidos\ARYCOM.CAPACIDADE.SATELITAL.-.Notificacao.Extrajudicial.pdf
+2025-12-03 11:52:54,074 - INFO - ⏩ Pulando download (já existe e não está vazio): ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,074 - INFO - ✅ Processado: extraidos\ARYCOM.CAPACIDADE.SATELITAL.LTDA.-.Contrato.de.Empresa.Associada.pdf
+2025-12-03 11:52:54,075 - INFO - ✅ Processado: extraidos\ASA.NORTE.CONTABIL.LTDA.-.Contrato.de.Empresa.Associada.pdf
